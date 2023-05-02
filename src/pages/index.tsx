@@ -23,7 +23,7 @@ export default function HomePage() {
       <Seo />
 
       <main>
-        <h1>JNTUH Frontend</h1>
+        <h1>JNTUH Frontend Application</h1>
       </main>
     </Layout>
   );
